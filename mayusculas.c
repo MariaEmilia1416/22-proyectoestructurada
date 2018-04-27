@@ -58,7 +58,7 @@ while((c = getchar()) !='\n') /*Leer caracter a caracter*/
 }
 
 
-  printf("\n");
+
 
 
 
