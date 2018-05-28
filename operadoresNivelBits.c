@@ -1,10 +1,10 @@
-*_________________________________________________________________*/
+/*________________________________________________________________ */
 /* Autor Maria Emilia Palomec Reyes                                */
-/* E-mail : emilia0599@hotmail.com         						             */
+/* E-mail : emilia0599@hotmail.com         						                  */
 /* Fecha de Creacion :  27/05/2018                                 */
 /* Fecha de Actualizacion : 28/05/2018                             */
 /* Descripcion: Operadores nivel bits                              */
-/* 				                    		                                 */
+/* 				                    		                                      */
 /*_________________________________________________________________*/
 
 
